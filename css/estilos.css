@@ -1,0 +1,39 @@
+body{
+    font: 1em/1.3 arial,Helvetica, sans-serif;
+    width: 1400px;
+    height: 200px;
+    
+}
+
+.p{
+    font-size: rgb(32, 163, 39);
+}
+.rojo{
+    color: red;
+}
+
+.colorl{
+
+    background-color: #336699;
+
+}
+.primero{
+    font-size: rgb(25, 29, 25);
+  
+}
+.deco{
+    background: #fbd0dd;
+    padding: 1px;
+}
+
+span{
+    background: #ffcc99;
+    border: 1px solid #FF9900;
+    padding: 1px;
+}
+
+.enlaces{
+    font-size: #CC3300;
+
+    
+}
